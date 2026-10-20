@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧮 Simple Python Calculator
 
 A beginner-friendly calculator built with Python that performs basic arithmetic operations using functions, loops, conditional statements, and exception handling.
@@ -84,13 +85,70 @@ Calculator Closed.
 - Add a graphical user interface (GUI)
 - Support more mathematical operations
 - Improve the user interface and input validation
+=======
+# 🎮 Python Number Guessing Game
+
+A fun, beginner-friendly number guessing game built with Python. Choose a difficulty level and guess the randomly generated number.
+
+## ✨ Features
+
+- 🎯 Easy, Medium, and Hard difficulty levels
+- 🎲 Random number generation
+- ⬆️ Too High / ⬇️ Too Low hints
+- 🏆 Tracks the number of attempts
+
+## 🛠️ Technologies
+
+- Python
+- Random Module
+
+## 🚀 How to Run
+
+Make sure Python is installed, then run:
+
+```bash
+python number_guessing_game.py
+```
+
+## 💻 Example Output
+
+```text
+🎮 Number Guessing Game
+1. Easy (1-50)
+2. Medium (1-100)
+3. Hard (1-500)
+
+Choose difficulty (1/2/3): 1
+
+Guess a number between 1 and 50: 25
+Too low!
+
+Guess a number between 1 and 50: 38
+Too high!
+
+Guess a number between 1 and 50: 32
+🎉 You won in 3 attempts!
+```
+
+## 📚 Concepts Learned
+
+- Variables and user input
+- Conditional statements
+- While loops
+- Random number generation
+- Comparison operators
+>>>>>>> 1187b950963251739a5796f3b0ff02df550325a9
 
 ## 👨‍💻 Author
 
 **Md Shahid**
 
+<<<<<<< HEAD
 A beginner Python project created for learning and practicing programming fundamentals.
 
 ---
 
 ⭐ If you find this project useful, consider giving the repository a star!
+=======
+Python Developer in Progress 🚀
+>>>>>>> 1187b950963251739a5796f3b0ff02df550325a9

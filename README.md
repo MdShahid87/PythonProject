@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🧮 Simple Python Calculator
 
 A beginner-friendly calculator built with Python that performs basic arithmetic operations using functions, loops, conditional statements, and exception handling.
@@ -137,18 +136,8 @@ Guess a number between 1 and 50: 32
 - While loops
 - Random number generation
 - Comparison operators
->>>>>>> 1187b950963251739a5796f3b0ff02df550325a9
 
 ## 👨‍💻 Author
 
 **Md Shahid**
 
-<<<<<<< HEAD
-A beginner Python project created for learning and practicing programming fundamentals.
-
----
-
-⭐ If you find this project useful, consider giving the repository a star!
-=======
-Python Developer in Progress 🚀
->>>>>>> 1187b950963251739a5796f3b0ff02df550325a9
